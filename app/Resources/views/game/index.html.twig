@@ -1,0 +1,134 @@
+{% extends 'base.html.twig' %}
+
+{% block headline %}
+    <div class="progress-group">
+        <span  style="font-size:80%;    margin-top: -6px;    display: block;">
+            <span class="progress-text">
+                {{ player.step }}. schéma z 100
+            </span>
+            <span class="progress-number"><b>{{ (100/100*(player.step-1))|round }}</b>% hotovo</span>
+        </span>
+        <div class="progress sm" style="margin-top:10px">
+            <div class="progress-bar progress-bar-primary" style="width: {{ 100/100*(player.step-1) }}%"></div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block sidebar %}
+    <h1>Zbývá: <strong id="clockdiv">{{ limit/60 }}:00</strong></h1>
+{% endblock %}
+
+{% block body %}
+
+    <!-- Main row -->
+    <div class="row">
+        <!-- Left col -->
+        <div class="col-md-6">
+            <!-- MAP & BOX PANE -->
+            <div class="box box-success">
+                <div class="box-header with-border">
+                    <a target="_blank" href="{{ path("schema", {"id": schema.id }) }}"
+                       class="pull-right btn btn-primary">Otevřít schéma v nové záložce</a>
+                    <h3 class="box-title">Schéma</h3>
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body">
+
+                    {{ schema.data|raw }}
+
+                </div>
+                <!-- /.box-body -->
+            </div>
+            <!-- /.box -->
+
+        </div>
+        <!-- /.col -->
+        <div class="col-md-6">
+            <div class="box box-default">
+                <div class="box-header with-border">
+                    <h3 class="box-title">Vaše odpovědi</h3>
+                </div>
+                <!-- /.box-header -->
+                <div class="box-body">
+
+                    <form action="{{ path("game_step", {"step": player.step+1}) }}" method="post">
+                        <table class="table table-bordered">
+                            <tbody>
+                            {% set chars = schema.usedChars|split(',') %}
+                            {% set iterator = 0 %}
+                            {% for char in chars %}
+                                <tr>
+                                    <td align="center" valign="middle" style="vertical-align:middle"><b>{{ char }}</b>
+                                    </td>
+                                    <td>
+                                        <select class="form-control control" name="results_{{ iterator }}" required>
+                                            <option value="">--- zvolte ---</option>
+                                            <option value="inversion_color">invertuje barvy</option>
+                                            <option value="scale_down">zmenší</option>
+                                            <option value="scale_up">zvětší</option>
+                                            <option value="line_horizontal">přidá horizontální linku</option>
+                                            <option value="line_vertical">přidá vertikální linku</option>
+                                            <option value="rotate90">otočí o 90 stupňu</option>
+                                            <option value="step_geo">změní tvar</option>
+                                        </select>
+                                    </td>
+                                </tr>
+                                {% set iterator = iterator+1 %}
+                            {% endfor %}
+                            </tbody>
+                        </table>
+
+                        <p class="text-center">
+                            <label class="hidden"><input type="checkbox" name="is_passible_more_result"> Je možné, že existuje více správných odpovědí</label>
+                            <br/><br/>
+                            <button type="submit" class="btn btn-lg btn-success">Pokračovat na další schéma</button>
+                        </p>
+
+                    </form>
+
+                </div>
+                <!-- /.box-body -->
+            </div>
+            <!-- /.box -->
+        </div>
+        <!-- /.col -->
+
+
+    </div>
+    <!-- /.row -->
+
+{% endblock %}
+
+{% block javascripts %}
+    {{ parent() }}
+
+    <script>
+        function getTimeRemaining(endtime) {
+            var t = Date.parse(endtime) - Date.parse(new Date());
+            var seconds = Math.floor((t / 1000) % 60);
+            var minutes = Math.floor((t / 1000 / 60) % 60);
+            var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+            var days = Math.floor(t / (1000 * 60 * 60 * 24));
+            return {
+                'total': t,
+                'days': days,
+                'hours': hours,
+                'minutes': minutes,
+                'seconds': seconds
+            };
+        }
+        function initializeClock(id, endtime) {
+            var clock = document.getElementById(id);
+            var timeinterval = setInterval(function () {
+                var t = getTimeRemaining(endtime);
+                clock.innerHTML = t.minutes + ':' + (t.seconds < 10 ? "0" : "") + t.seconds;
+                if (t.total <= 0) {
+                    location.href = '{{ path("game_over") }}';
+                    clearInterval(timeinterval);
+                }
+            }, 1000);
+        }
+        var deadline = new Date((new Date).getTime() + {{ limit }}* 1000);
+        initializeClock('clockdiv', deadline);
+    </script>
+{% endblock %}

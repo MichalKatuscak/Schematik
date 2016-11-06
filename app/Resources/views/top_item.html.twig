@@ -1,0 +1,20 @@
+<li class="item {{ class }}">
+    <div class="product-img">
+        <img src="https://www.gravatar.com/avatar/{{ top.player.gravatar }}?s=108&d=mm" class="img-circle" alt="{% if top.player.name %}{{ top.player.name }}{% else %}Anonym{% endif %}" style="width:54px;height:54px;">
+    </div>
+    <div class="product-info">
+        <span class="product-title">{% if top.player.name %}{{ top.player.name|truncate(50) }}{% else %}Anonym{% endif %}
+            <span class="label label-success pull-right" style="font-size:100%">{{ top.points }}
+                {% transchoice top.points %}
+
+                    {0} bodů|{1} bod|[2,4] body|[5,Inf] bodů
+
+                {% endtranschoice %}
+            </span>
+        </span>
+        <span class="product-description">
+            {% if top.player.profession %}{{ top.player.profession|truncate(30) }}{% endif %} {% if top.player.age %}({{ top.player.age }} let){% endif %}
+        </span>
+    </div>
+</li>
+<!-- /.item -->

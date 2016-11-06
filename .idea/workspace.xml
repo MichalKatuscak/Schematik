@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="389e3d02-e9d2-417c-9560-d31a90bc234a" name="Default" comment="" />
+    <ignored path="schematik.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/src/AppBundle/Controller/PlayerController.php" />
+    </disable_hints>
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="schematik" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Result.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/test/index.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/game/schema.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Image.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Top.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Player.php" />
+        <option value="$PROJECT_DIR$/tests/AppBundle/ApplicationAvailabilityFunctionalTest.php" />
+        <option value="$PROJECT_DIR$/tests/AppBundle/SchemaTest.php" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/tests/AppBundle/Util/SchemaTest.php" />
+        <option value="$PROJECT_DIR$/src/Draw/Schema.php" />
+        <option value="$PROJECT_DIR$/src/Component/Draw/Schema.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Generator/GeneratorInterface.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Generator/RandomGenerator.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/game/index.html.twig" />
+        <option value="dbtable:/f94f9e1/9d2a3291-efe3-44fb-8115-cf7bc87732c6/schematik.image" />
+        <option value="$PROJECT_DIR$/app/config/services.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Manager/GameManager.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/GameController.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/SchemaController.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/top_item.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/open.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/PlayerController.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Manager/PlayerManager.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/game/error.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/game/finish.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/game/over.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Manager/SchemaManager.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Element/ElementInterface.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Transform/ScaleUp.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Transform/ScaleDown.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Element/Triangle.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Element/Star.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Element/Rectangle.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Element/Circle.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Transform/TransformInterface.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Transform/Inversion.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Transform/Rotate.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Transform/Scale.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Schema.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Element/LineHorizontal.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Generator/RandomeGenerator.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Util/Schema.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Element/BaseElement.php" />
+        <option value="$PROJECT_DIR$/src/Component/Schema/Draw/Element/LineVertical.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Util" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Component" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Schema" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Generator" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Component" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Schema" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Draw" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Component" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Schema" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Draw" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Transform" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Component" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Schema" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Draw" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Element" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Util" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Manager" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schematik" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="error.&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/schematik/app/Resources/views/game/error.html.twig&#10;error&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/schematik/app/Resources/views/game/error.html.twig&#10;fini&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/schematik/app/Resources/views/game/finish.html.twig&#10;over.&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/schematik/app/Resources/views/game/over.html.twig&#10;ser&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/schematik/app/config/services.yml&#10;Player.php&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/schematik/src/AppBundle/Entity/Player.php&#10;Sch&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/schematik/src/AppBundle/Util/Schema.php&#10;htt&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/schematik/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/HttpKernel.php&#10;Kernel&#9;FILE&#9;file:///Applications/XAMPP/xamppfiles/htdocs/schematik/app/AppKernel.php&#10;HttpKe&#9;null&#9;null&#10;index&#9;FILE&#9;file:///Applications/XAMPP/htdocs/schematik/app/Resources/views/game/index.html.twig&#10;over&#9;FILE&#9;file:///Applications/XAMPP/htdocs/schematik/app/Resources/views/game/over.html.twig&#10;Game&#9;FILE&#9;file:///Applications/XAMPP/htdocs/schematik/src/AppBundle/Controller/GameController.php&#10;inde&#9;FILE&#9;file:///Applications/XAMPP/htdocs/schematik/app/Resources/views/game/index.html.twig&#10;base&#9;FILE&#9;file:///Applications/XAMPP/htdocs/schematik/app/Resources/views/base.html.twig&#10;ind&#9;FILE&#9;file:///Applications/XAMPP/htdocs/schematik/app/Resources/views/game/index.html.twig" />
+    <property name="FullScreen" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Component/Schema/Draw" />
+      <recent name="$PROJECT_DIR$/src/Component" />
+      <recent name="$PROJECT_DIR$/tests/AppBundle/Util" />
+      <recent name="$PROJECT_DIR$/web/assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="389e3d02-e9d2-417c-9560-d31a90bc234a" name="Default" comment="" />
+      <created>1477063921326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477063921326</updated>
+      <workItem from="1477063922520" duration="17181000" />
+      <workItem from="1477677035267" duration="7000" />
+      <workItem from="1477741536700" duration="10981000" />
+      <workItem from="1478166207312" duration="14534000" />
+      <workItem from="1478186089316" duration="176000" />
+      <workItem from="1478186293362" duration="50348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="93227000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23046875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09907407" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3997344" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1806109" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/AppCache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/symfony_requirements">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Bundle/Bundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/AppBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#7#47#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/HttpKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="36" column="15" selection-start-line="35" selection-start-column="2" selection-end-line="36" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+          <folding>
+            <marker date="1475521274000" expanded="false" signature="9:234" placeholder="..." />
+            <marker date="1475521274000" expanded="false" signature="283:1690" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="1695:1848" placeholder=" The Kernel is the heart of the Symfony system. ..." />
+            <marker date="1475521274000" expanded="true" signature="1920:22602" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="1930:1966" placeholder=" @var BundleInterface[] ..." />
+            <marker date="1475521274000" expanded="true" signature="2504:2656" placeholder=" Constructor. ..." />
+            <marker date="1475521274000" expanded="true" signature="2712:2978" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="2914:2971" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="3009:3172" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="3043:3100" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="3181:3220" placeholder=" Boots the current kernel. ..." />
+            <marker date="1475521274000" expanded="true" signature="3249:3767" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="3293:3322" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="3361:3459" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="3638:3729" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="3776:3803" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="3873:4102" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="3918:3947" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="4018:4095" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="4111:4138" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="4171:4454" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="4216:4245" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="4330:4413" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="4463:4490" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="4597:4758" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="4642:4678" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="4767:4852" placeholder=" Gets a HTTP kernel from the container. ..." />
+            <marker date="1475521274000" expanded="true" signature="4893:4958" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="4967:4994" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="5029:5072" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="5081:5108" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="5162:5576" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="5215:5439" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="5472:5528" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="5585:5717" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="5789:7703" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="5827:5952" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="5999:6117" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="6229:6307" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="6580:7498" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="6677:7218" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="6725:7087" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="6782:7067" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="7119:7170" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="7289:7488" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="7335:7386" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="7533:7605" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="7712:7739" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="7771:7948" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="7813:7912" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="7957:7984" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="8023:8070" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="8079:8106" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="8138:8179" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="8188:8215" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="8250:8447" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="8295:8408" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="8456:8483" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="8520:8565" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="8574:9073" placeholder=" Loads the PHP class cache. ..." />
+            <marker date="1475521274000" expanded="true" signature="9150:9220" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="9229:9259" placeholder=" Used internally. ..." />
+            <marker date="1475521274000" expanded="true" signature="9311:9444" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="9453:9480" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="9517:9584" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="9593:9620" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="9656:9728" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="9737:9764" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="9798:9849" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="9858:9885" placeholder=" {@inheritdoc} ..." />
+            <marker date="1475521274000" expanded="true" signature="9920:9956" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="10016:10265" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="10100:10258" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="10274:10844" placeholder=" Initializes the data structures related to the bundle management. ..." />
+            <marker date="1475521274000" expanded="true" signature="10889:12895" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="11080:11959" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="11168:11298" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="11399:11878" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="11458:11647" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="11692:11810" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="11886:11949" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="12094:12289" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="12406:12888" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="12539:12704" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="12761:12878" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="12904:12992" placeholder=" Gets the container class. ..." />
+            <marker date="1475521274000" expanded="true" signature="13037:13154" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="13163:13304" placeholder=" Gets the container's base class. ..." />
+            <marker date="1475521274000" expanded="true" signature="13353:13393" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="13402:13569" placeholder=" Initializes the service container. ..." />
+            <marker date="1475521274000" expanded="true" signature="13616:14353" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="13812:14029" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="14226:14346" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="14362:14464" placeholder=" Returns the kernel parameters. ..." />
+            <marker date="1475521274000" expanded="true" signature="14511:15371" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="14600:14659" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="14689:15363" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="14708:15314" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="15380:15553" placeholder=" Gets the environment parameters. ..." />
+            <marker date="1475521274000" expanded="true" signature="15597:15882" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="15681:15846" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="15732:15836" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="15891:16044" placeholder=" Builds the service container. ..." />
+            <marker date="1475521274000" expanded="true" signature="16086:17100" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="16198:16619" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="16231:16452" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="16306:16438" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="16483:16609" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="16873:16920" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="17109:17252" placeholder=" Prepares the ContainerBuilder before it is compiled. ..." />
+            <marker date="1475521274000" expanded="true" signature="17323:17982" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="17406:17712" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="17471:17599" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="17633:17702" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="17759:17808" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="17991:18117" placeholder=" Gets a new ContainerBuilder instance used to build the service container. ..." />
+            <marker date="1475521274000" expanded="true" signature="18164:18527" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="18410:18492" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="18536:18890" placeholder=" Dumps the service container to PHP code in the cache. ..." />
+            <marker date="1475521274000" expanded="true" signature="18998:19517" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="19218:19305" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="19526:19698" placeholder=" Returns a loader for the container. ..." />
+            <marker date="1475521274000" expanded="true" signature="19773:20246" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="19868:20188" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="20255:20562" placeholder=" Removes comments from a PHP source string. ..." />
+            <marker date="1475521274000" expanded="true" signature="20614:22328" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="20669:20706" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="20875:22040" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="20965:21015" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="21057:21359" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="21126:21276" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="21398:21687" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="21434:21524" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="21752:21802" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="21810:22030" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="21958:22016" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="22112:22296" placeholder="..." />
+            <marker date="1475521274000" expanded="true" signature="22361:22440" placeholder="{...}" />
+            <marker date="1475521274000" expanded="true" signature="22480:22600" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/f94f9e1/9d2a3291-efe3-44fb-8115-cf7bc87732c6/schematik.image">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Player.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2798">
+          <caret line="343" column="32" selection-start-line="343" selection-start-column="32" selection-end-line="343" selection-end-column="32" />
+          <folding>
+            <marker date="1477770510000" expanded="true" signature="73:189" placeholder=" Player ..." />
+            <marker date="1477770510000" expanded="true" signature="204:5456" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="214:348" placeholder=" @var int ..." />
+            <marker date="1477770510000" expanded="true" signature="376:465" placeholder=" @var string ..." />
+            <marker date="1477770510000" expanded="true" signature="493:600" placeholder=" @var string ..." />
+            <marker date="1477770510000" expanded="true" signature="630:738" placeholder=" @var string ..." />
+            <marker date="1477770510000" expanded="true" signature="769:882" placeholder=" @var string ..." />
+            <marker date="1477770510000" expanded="true" signature="918:1009" placeholder=" @var int ..." />
+            <marker date="1477770510000" expanded="true" signature="1038:1115" placeholder=" @var int ..." />
+            <marker date="1477770510000" expanded="true" signature="1145:1251" placeholder=" @var string ..." />
+            <marker date="1477770510000" expanded="true" signature="1281:1351" placeholder=" @ORM\OneToMany(targetEntity=&quot;Result&quot;, mappedBy=&quot;player&quot;) ..." />
+            <marker date="1477770510000" expanded="true" signature="1383:1450" placeholder=" @ORM\OneToMany(targetEntity=&quot;Top&quot;, mappedBy=&quot;player&quot;) ..." />
+            <marker date="1477770510000" expanded="true" signature="1480:1526" placeholder=" Get id ..." />
+            <marker date="1477770510000" expanded="true" signature="1556:1594" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="1603:1684" placeholder=" Set ip ..." />
+            <marker date="1477770510000" expanded="true" signature="1717:1777" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="1786:1835" placeholder=" Get ip ..." />
+            <marker date="1477770510000" expanded="true" signature="1865:1903" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="1912:2009" placeholder=" Set profession ..." />
+            <marker date="1477770510000" expanded="true" signature="2058:2134" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="2143:2200" placeholder=" Get profession ..." />
+            <marker date="1477770510000" expanded="true" signature="2238:2284" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="2293:2377" placeholder=" Set age ..." />
+            <marker date="1477770510000" expanded="true" signature="2412:2474" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="2483:2530" placeholder=" Get age ..." />
+            <marker date="1477770510000" expanded="true" signature="2561:2600" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="2609:2695" placeholder=" Set step ..." />
+            <marker date="1477770510000" expanded="true" signature="2732:2796" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="2805:2853" placeholder=" Get step ..." />
+            <marker date="1477770510000" expanded="true" signature="2885:2925" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="2934:3019" placeholder=" Set hash ..." />
+            <marker date="1477770510000" expanded="true" signature="3056:3120" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="3129:3180" placeholder=" Get hash ..." />
+            <marker date="1477770510000" expanded="true" signature="3212:3252" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="3260:3285" placeholder=" Constructor ..." />
+            <marker date="1477770510000" expanded="true" signature="3321:3410" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="3419:3526" placeholder=" Add result ..." />
+            <marker date="1477770510000" expanded="true" signature="3592:3663" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="3672:3753" placeholder=" Remove result ..." />
+            <marker date="1477770510000" expanded="true" signature="3822:3882" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="3891:3978" placeholder=" Get results ..." />
+            <marker date="1477770510000" expanded="true" signature="4013:4056" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="4065:4163" placeholder=" Add top ..." />
+            <marker date="1477770510000" expanded="true" signature="4220:4285" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="4294:4366" placeholder=" Remove top ..." />
+            <marker date="1477770510000" expanded="true" signature="4426:4480" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="4489:4573" placeholder=" Get tops ..." />
+            <marker date="1477770510000" expanded="true" signature="4605:4645" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="4654:4739" placeholder=" Set name ..." />
+            <marker date="1477770510000" expanded="true" signature="4776:4840" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="4849:4900" placeholder=" Get name ..." />
+            <marker date="1477770510000" expanded="true" signature="4932:4972" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="4981:5068" placeholder=" Set email ..." />
+            <marker date="1477770510000" expanded="true" signature="5107:5173" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="5182:5234" placeholder=" Get email ..." />
+            <marker date="1477770510000" expanded="true" signature="5267:5308" placeholder="{...}" />
+            <marker date="1477770510000" expanded="true" signature="5317:5372" placeholder=" Get gravatar ..." />
+            <marker date="1477770510000" expanded="true" signature="5408:5454" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Manager/GameManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="126" column="35" selection-start-line="126" selection-start-column="30" selection-end-line="126" selection-end-column="35" />
+          <folding>
+            <marker date="1478265312000" expanded="true" signature="41:176" placeholder="..." />
+            <marker date="1478265312000" expanded="true" signature="201:3550" placeholder="{...}" />
+            <marker date="1478265312000" expanded="true" signature="211:243" placeholder=" @var SchemaManager ..." />
+            <marker date="1478265312000" expanded="true" signature="286:318" placeholder=" @var PlayerManager ..." />
+            <marker date="1478265312000" expanded="true" signature="357:383" placeholder=" @var Session ..." />
+            <marker date="1478265312000" expanded="true" signature="416:571" placeholder=" GameManager constructor. ..." />
+            <marker date="1478265312000" expanded="true" signature="683:824" placeholder="{...}" />
+            <marker date="1478265312000" expanded="true" signature="857:919" placeholder="{...}" />
+            <marker date="1478265312000" expanded="true" signature="951:1355" placeholder="{...}" />
+            <marker date="1478265312000" expanded="true" signature="1089:1178" placeholder="..." />
+            <marker date="1478265312000" expanded="true" signature="1302:1347" placeholder="..." />
+            <marker date="1478265312000" expanded="true" signature="1391:1470" placeholder="{...}" />
+            <marker date="1478265312000" expanded="true" signature="1504:1694" placeholder="{...}" />
+            <marker date="1478265312000" expanded="true" signature="1734:1801" placeholder="{...}" />
+            <marker date="1478265312000" expanded="true" signature="1834:2348" placeholder="{...}" />
+            <marker date="1478265312000" expanded="true" signature="2393:3108" placeholder="{...}" />
+            <marker date="1478265312000" expanded="true" signature="2755:2954" placeholder="..." />
+            <marker date="1478265312000" expanded="true" signature="2861:2899" placeholder="..." />
+            <marker date="1478265312000" expanded="true" signature="2907:2944" placeholder="..." />
+            <marker date="1478265312000" expanded="true" signature="3044:3079" placeholder="..." />
+            <marker date="1478265312000" expanded="true" signature="3144:3350" placeholder="{...}" />
+            <marker date="1478265312000" expanded="true" signature="3185:3216" placeholder="..." />
+            <marker date="1478265312000" expanded="true" signature="3255:3289" placeholder="..." />
+            <marker date="1478265312000" expanded="true" signature="3386:3548" placeholder="{...}" />
+            <marker date="1478265312000" expanded="true" signature="3427:3458" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/GameController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="118" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+          <folding>
+            <marker date="1478266892000" expanded="true" signature="44:329" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="370:4133" placeholder="{...}" />
+            <marker date="1478266892000" expanded="true" signature="380:540" placeholder=" @Route(&quot;/zacatek&quot;, name=&quot;game_start&quot;) ..." />
+            <marker date="1478266892000" expanded="true" signature="576:1300" placeholder="{...}" />
+            <marker date="1478266892000" expanded="true" signature="680:740" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="888:993" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="1001:1128" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="1044:1117" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="1058:1116" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="1160:1292" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="1185:1291" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="1309:1523" placeholder=" @Route(&quot;/krok/{step}&quot;, name=&quot;game_step&quot;) ..." />
+            <marker date="1478266892000" expanded="true" signature="1581:2451" placeholder="{...}" />
+            <marker date="1478266892000" expanded="true" signature="1685:1745" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="1827:1892" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="1947:2144" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="2060:2134" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="2311:2443" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="2336:2442" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="2508:2572" placeholder="{...}" />
+            <marker date="1478266892000" expanded="true" signature="2581:2635" placeholder=" @Route(&quot;/vyprsel_cas&quot;, name=&quot;game_over&quot;) ..." />
+            <marker date="1478266892000" expanded="true" signature="2670:2718" placeholder="{...}" />
+            <marker date="1478266892000" expanded="true" signature="2727:2777" placeholder=" @Route(&quot;/konec&quot;, name=&quot;game_finish&quot;) ..." />
+            <marker date="1478266892000" expanded="true" signature="2814:2864" placeholder="{...}" />
+            <marker date="1478266892000" expanded="true" signature="2873:2922" placeholder=" @Route(&quot;/chyba&quot;, name=&quot;game_error&quot;) ..." />
+            <marker date="1478266892000" expanded="true" signature="2974:3023" placeholder="{...}" />
+            <marker date="1478266892000" expanded="true" signature="3057:3652" placeholder="{...}" />
+            <marker date="1478266892000" expanded="true" signature="3161:3221" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="3454:3644" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="3483:3643" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="3661:3712" placeholder=" @Route(&quot;/schema/{id}&quot;, name=&quot;schema&quot;) ..." />
+            <marker date="1478266892000" expanded="true" signature="3752:4130" placeholder="{...}" />
+            <marker date="1478266892000" expanded="true" signature="3915:3975" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="4053:4122" placeholder="..." />
+            <marker date="1478266892000" expanded="true" signature="4079:4121" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/top_item.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding>
+            <marker date="1478271046000" expanded="true" signature="28:950" placeholder="..." />
+            <marker date="1478271046000" expanded="true" signature="58:288" placeholder="..." />
+            <marker date="1478271046000" expanded="true" signature="172:244" placeholder="{% if top.player.name ...%}" />
+            <marker date="1478271046000" expanded="false" signature="253:276" placeholder="..." />
+            <marker date="1478271046000" expanded="true" signature="319:944" placeholder="..." />
+            <marker date="1478271046000" expanded="true" signature="356:719" placeholder="..." />
+            <marker date="1478271046000" expanded="true" signature="357:442" placeholder="{% if top.player.name ...%}" />
+            <marker date="1478271046000" expanded="false" signature="507:521" placeholder="..." />
+            <marker date="1478271046000" expanded="true" signature="522:703" placeholder="..." />
+            <marker date="1478271046000" expanded="true" signature="762:933" placeholder="..." />
+            <marker date="1478271046000" expanded="true" signature="776:857" placeholder="{% if top.player.profession ...%}" />
+            <marker date="1478271046000" expanded="true" signature="858:918" placeholder="{% if top.player.age ...%}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <marker date="1478273513000" expanded="true" signature="21:6301" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="28:2046" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="126:168" placeholder="{% block title ...%}" />
+            <marker date="1478273513000" expanded="true" signature="980:1101" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="1364:1555" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="1565:2039" placeholder="{% block stylesheets ...%}" />
+            <marker date="1478273513000" expanded="true" signature="1603:2019" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="1653:1932" placeholder="{...}" />
+            <marker date="1478273513000" expanded="true" signature="1744:1797" placeholder="{...}" />
+            <marker date="1478273513000" expanded="true" signature="1859:1918" placeholder="{...}" />
+            <marker date="1478273513000" expanded="true" signature="1951:2003" placeholder="{...}" />
+            <marker date="1478273513000" expanded="true" signature="2100:6293" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="2122:5196" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="2156:2300" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="2213:2286" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="2394:4223" placeholder="..." />
+            <marker date="1478273513000" expanded="false" signature="2497:2521" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="2522:4183" placeholder="..." />
+            <marker date="1478273513000" expanded="false" signature="2567:2576" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="2577:3146" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="2623:2833" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="2745:2809" placeholder="{% if player.name ...%}" />
+            <marker date="1478273513000" expanded="true" signature="2878:3127" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="2903:2967" placeholder="{% if player.name ...%}" />
+            <marker date="1478273513000" expanded="true" signature="2992:3052" placeholder="{% if player.profession ...%}" />
+            <marker date="1478273513000" expanded="true" signature="3053:3105" placeholder="{% if player.age ...%}" />
+            <marker date="1478273513000" expanded="true" signature="3161:3194" placeholder="{% block sidebar ...%}" />
+            <marker date="1478273513000" expanded="false" signature="3249:3287" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="3288:4025" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="3492:3824" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="4042:4164" placeholder="..." />
+            <marker date="1478273513000" expanded="false" signature="4124:4135" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="4310:4756" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="4397:4589" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="4414:4570" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="4432:4553" placeholder="{% block headline ...%}" />
+            <marker date="1478273513000" expanded="true" signature="4654:4718" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="4669:4699" placeholder="{% block body ...%}" />
+            <marker date="1478273513000" expanded="true" signature="4821:5030" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="4864:4901" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="5041:5143" placeholder="..." />
+            <marker date="1478273513000" expanded="true" signature="5218:6286" placeholder="{% block javascripts ...%}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Manager/PlayerManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+          <folding>
+            <marker date="1478276004000" expanded="true" signature="41:206" placeholder="..." />
+            <marker date="1478276004000" expanded="true" signature="233:2779" placeholder="{...}" />
+            <marker date="1478276004000" expanded="true" signature="243:275" placeholder=" @var EntityManager ..." />
+            <marker date="1478276004000" expanded="true" signature="346:371" placeholder=" @var Player ..." />
+            <marker date="1478276004000" expanded="true" signature="403:429" placeholder=" @var Session ..." />
+            <marker date="1478276004000" expanded="true" signature="462:545" placeholder=" PlayerManager constructor. ..." />
+            <marker date="1478276004000" expanded="true" signature="627:924" placeholder="{...}" />
+            <marker date="1478276004000" expanded="true" signature="957:999" placeholder="{...}" />
+            <marker date="1478276004000" expanded="true" signature="1008:1065" placeholder=" Increment step in player parameter and save ..." />
+            <marker date="1478276004000" expanded="true" signature="1098:1280" placeholder="{...}" />
+            <marker date="1478276004000" expanded="true" signature="1333:1657" placeholder="{...}" />
+            <marker date="1478276004000" expanded="true" signature="1694:1959" placeholder="{...}" />
+            <marker date="1478276004000" expanded="true" signature="2000:2777" placeholder="{...}" />
+            <marker date="1478276004000" expanded="true" signature="2041:2346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/game/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="83" selection-start-line="11" selection-start-column="83" selection-end-line="11" selection-end-column="83" />
+          <folding>
+            <marker date="1478258055000" expanded="true" signature="32:602" placeholder="{% block headline ...%}" />
+            <marker date="1478258055000" expanded="true" signature="84:586" placeholder="..." />
+            <marker date="1478258055000" expanded="false" signature="108:162" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="163:390" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="204:272" placeholder="..." />
+            <marker date="1478258055000" expanded="false" signature="432:447" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="448:575" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="516:553" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="604:707" placeholder="{% block sidebar ...%}" />
+            <marker date="1478258055000" expanded="true" signature="709:4174" placeholder="{% block body ...%}" />
+            <marker date="1478258055000" expanded="true" signature="769:4138" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="826:1455" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="904:1412" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="957:1213" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="1045:1136" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="1290:1357" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="1509:4102" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="1551:4060" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="1604:1688" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="1765:4005" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="1865:3981" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="1926:3559" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="1962:3526" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="1992:2037" placeholder="{% set chars = schema.usedChars|split(',') ...%}" />
+            <marker date="1478258055000" expanded="true" signature="2066:2088" placeholder="{% set iterator = 0 ...%}" />
+            <marker date="1478258055000" expanded="true" signature="2117:3490" placeholder="{% for char in chars ...%}" />
+            <marker date="1478258055000" expanded="true" signature="2176:3384" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="2256:2277" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="2278:2337" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="2378:3346" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="2495:3304" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="3418:3449" placeholder="{% set iterator = iterator+1 ...%}" />
+            <marker date="1478258055000" expanded="true" signature="3608:3952" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="4176:5443" placeholder="{% block javascripts ...%}" />
+            <marker date="1478258055000" expanded="true" signature="4231:5427" placeholder="..." />
+            <marker date="1478258055000" expanded="true" signature="4276:4792" placeholder="{...}" />
+            <marker date="1478258055000" expanded="true" signature="4605:4781" placeholder="{...}" />
+            <marker date="1478258055000" expanded="true" signature="4839:5292" placeholder="{...}" />
+            <marker date="1478258055000" expanded="true" signature="4949:5274" placeholder="{...}" />
+            <marker date="1478258055000" expanded="true" signature="5129:5260" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/open.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <marker date="1478273522000" expanded="true" signature="21:6889" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="28:1762" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="1081:1272" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="1281:1755" placeholder="{% block stylesheets ...%}" />
+            <marker date="1478273522000" expanded="true" signature="1319:1735" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="1369:1648" placeholder="{...}" />
+            <marker date="1478273522000" expanded="true" signature="1460:1513" placeholder="{...}" />
+            <marker date="1478273522000" expanded="true" signature="1575:1634" placeholder="{...}" />
+            <marker date="1478273522000" expanded="true" signature="1667:1719" placeholder="{...}" />
+            <marker date="1478273522000" expanded="true" signature="1798:6881" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="1800:5698" placeholder="{% block body ...%}" />
+            <marker date="1478273522000" expanded="true" signature="1843:5682" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="1875:1936" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="1962:5671" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="2011:4318" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="2057:4299" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="2125:2216" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="2301:4236" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="2375:4209" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="2518:2727" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="2793:3029" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="3095:3296" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="3362:3544" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="3577:3744" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="3811:3989" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="4042:4177" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="4368:5656" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="4414:5637" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="4482:4960" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="4555:4579" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="4674:4871" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="5045:5574" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="5116:5547" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="5146:5319" placeholder="{% for top in tops ...%}" />
+            <marker date="1478273522000" expanded="true" signature="5349:5518" placeholder="{% for top in tops_week ...%}" />
+            <marker date="1478273522000" expanded="true" signature="5700:6370" placeholder="{% block footer ...%}" />
+            <marker date="1478273522000" expanded="true" signature="5757:6354" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="5795:6343" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="5855:5980" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="6015:6328" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="6049:6309" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="6092:6167" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="6211:6286" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="6653:6873" placeholder="..." />
+            <marker date="1478273522000" expanded="true" signature="6673:6862" placeholder="{...}" />
+            <marker date="1478273522000" expanded="true" signature="6701:6854" placeholder="{&quot;checkboxClass&quot;: 'icheckbox_square-blue'...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/game/error.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <marker date="1478276079000" expanded="true" signature="32:874" placeholder="{% block body ...%}" />
+            <marker date="1478276079000" expanded="true" signature="76:858" placeholder="..." />
+            <marker date="1478276079000" expanded="true" signature="108:169" placeholder="..." />
+            <marker date="1478276079000" expanded="true" signature="195:847" placeholder="..." />
+            <marker date="1478276079000" expanded="true" signature="244:832" placeholder="..." />
+            <marker date="1478276079000" expanded="true" signature="290:813" placeholder="..." />
+            <marker date="1478276079000" expanded="true" signature="347:435" placeholder="..." />
+            <marker date="1478276079000" expanded="true" signature="520:750" placeholder="..." />
+            <marker date="1478276079000" expanded="true" signature="876:908" placeholder="{% block footer ...%}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/game/finish.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <marker date="1478276084000" expanded="true" signature="32:884" placeholder="{% block body ...%}" />
+            <marker date="1478276084000" expanded="true" signature="76:868" placeholder="..." />
+            <marker date="1478276084000" expanded="true" signature="108:169" placeholder="..." />
+            <marker date="1478276084000" expanded="true" signature="195:857" placeholder="..." />
+            <marker date="1478276084000" expanded="true" signature="244:842" placeholder="..." />
+            <marker date="1478276084000" expanded="true" signature="290:823" placeholder="..." />
+            <marker date="1478276084000" expanded="true" signature="347:435" placeholder="..." />
+            <marker date="1478276084000" expanded="true" signature="520:760" placeholder="..." />
+            <marker date="1478276084000" expanded="true" signature="886:918" placeholder="{% block footer ...%}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/game/over.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+          <folding>
+            <marker date="1478276088000" expanded="true" signature="32:872" placeholder="{% block body ...%}" />
+            <marker date="1478276088000" expanded="true" signature="76:856" placeholder="..." />
+            <marker date="1478276088000" expanded="true" signature="108:169" placeholder="..." />
+            <marker date="1478276088000" expanded="true" signature="195:845" placeholder="..." />
+            <marker date="1478276088000" expanded="true" signature="244:830" placeholder="..." />
+            <marker date="1478276088000" expanded="true" signature="290:811" placeholder="..." />
+            <marker date="1478276088000" expanded="true" signature="347:435" placeholder="..." />
+            <marker date="1478276088000" expanded="true" signature="520:748" placeholder="..." />
+            <marker date="1478276088000" expanded="true" signature="874:906" placeholder="{% block footer ...%}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/PlayerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <marker date="1478275804000" expanded="true" signature="44:269" placeholder="..." />
+            <marker date="1478275804000" expanded="true" signature="312:990" placeholder="{...}" />
+            <marker date="1478275804000" expanded="true" signature="322:367" placeholder=" @Route(&quot;/login/&quot;, name=&quot;login&quot;) ..." />
+            <marker date="1478275804000" expanded="true" signature="419:988" placeholder="{...}" />
+            <marker date="1478275804000" expanded="true" signature="571:926" placeholder="..." />
+            <marker date="1478275804000" expanded="true" signature="572:925" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/SchemaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <marker date="1478267196000" expanded="true" signature="44:194" placeholder="..." />
+            <marker date="1478267196000" expanded="true" signature="237:559" placeholder="{...}" />
+            <marker date="1478267196000" expanded="true" signature="247:298" placeholder=" @Route(&quot;/schema/{id}&quot;, name=&quot;schema&quot;) ..." />
+            <marker date="1478267196000" expanded="true" signature="337:556" placeholder="{...}" />
+            <marker date="1478267196000" expanded="true" signature="479:548" placeholder="..." />
+            <marker date="1478267196000" expanded="true" signature="505:547" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Generator/GeneratorInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <marker date="1478186072000" expanded="true" signature="74:195" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Transform/ScaleUp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Transform/ScaleDown.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL_f.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="123" column="25" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="25" />
+          <folding>
+            <marker date="1459930758000" expanded="true" signature="34:159" placeholder=" Return available SPL classes ..." />
+            <marker date="1459930758000" expanded="true" signature="193:586" placeholder=" Default implementation for __autoload() ..." />
+            <marker date="1459930758000" expanded="true" signature="657:1250" placeholder=" Register and return default file extensions for spl_autoload ..." />
+            <marker date="1459930758000" expanded="true" signature="1319:2015" placeholder=" Register given function as __autoload() implementation ..." />
+            <marker date="1459930758000" expanded="true" signature="2117:2411" placeholder=" Unregister given function as __autoload() implementation ..." />
+            <marker date="1459930758000" expanded="true" signature="2475:2824" placeholder=" Return all registered __autoload() functions ..." />
+            <marker date="1459930758000" expanded="true" signature="2869:3115" placeholder=" Try all registered __autoload() function to load the requested class ..." />
+            <marker date="1459930758000" expanded="true" signature="3166:3598" placeholder=" Return the parent classes of the given class ..." />
+            <marker date="1459930758000" expanded="true" signature="3658:4111" placeholder=" Return the interfaces which are implemented by the given class ..." />
+            <marker date="1459930758000" expanded="true" signature="4174:4418" placeholder=" Return hash id for given object ..." />
+            <marker date="1459930758000" expanded="true" signature="4460:4821" placeholder=" Copy the iterator into an array ..." />
+            <marker date="1459930758000" expanded="true" signature="4888:5131" placeholder=" Count the elements in an iterator ..." />
+            <marker date="1459930758000" expanded="true" signature="5177:5689" placeholder=" Call a function for every element in an iterator ..." />
+            <marker date="1459930758000" expanded="true" signature="5787:6212" placeholder=" Return the traits used by the given class ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <marker date="1478261112000" expanded="true" signature="424:438" placeholder="..." />
+            <marker date="1478261112000" expanded="true" signature="546:550" placeholder="..." />
+            <marker date="1478261112000" expanded="true" signature="656:660" placeholder="..." />
+            <marker date="1478261112000" expanded="true" signature="762:766" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Element/ElementInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="75" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="75" />
+          <folding>
+            <marker date="1478342526000" expanded="true" signature="75:191" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+          <folding>
+            <marker date="1478358720000" expanded="true" signature="44:220" placeholder="..." />
+            <marker date="1478358720000" expanded="true" signature="264:1164" placeholder="{...}" />
+            <marker date="1478358720000" expanded="true" signature="274:312" placeholder=" @Route(&quot;/&quot;, name=&quot;open&quot;) ..." />
+            <marker date="1478358720000" expanded="true" signature="348:1162" placeholder="{...}" />
+            <marker date="1478358720000" expanded="true" signature="656:766" placeholder="..." />
+            <marker date="1478358720000" expanded="true" signature="657:702" placeholder="SELECT e FRO... AppBundle" />
+            <marker date="1478358720000" expanded="true" signature="657:704" placeholder="SELECT e FRO... AppBundle" />
+            <marker date="1478358720000" expanded="true" signature="657:705" placeholder="SELECT e FRO... AppBundle" />
+            <marker date="1478358720000" expanded="true" signature="657:742" placeholder="SELECT e FRO... AppBundle" />
+            <marker date="1478358720000" expanded="true" signature="657:765" placeholder="SELECT t FRO... AppBundle" />
+            <marker date="1478358720000" expanded="true" signature="983:1154" placeholder="..." />
+            <marker date="1478358720000" expanded="true" signature="1002:1153" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Manager/SchemaManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+          <folding>
+            <marker date="1478277047000" expanded="true" signature="41:96" placeholder="..." />
+            <marker date="1478277047000" expanded="true" signature="123:1051" placeholder="{...}" />
+            <marker date="1478277047000" expanded="true" signature="133:165" placeholder=" @var EntityManager ..." />
+            <marker date="1478277047000" expanded="true" signature="235:318" placeholder=" PlayerManager constructor. ..." />
+            <marker date="1478277047000" expanded="true" signature="382:519" placeholder="{...}" />
+            <marker date="1478277047000" expanded="true" signature="550:612" placeholder="{...}" />
+            <marker date="1478277047000" expanded="true" signature="656:1049" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Element/Triangle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <marker date="1478361076000" expanded="true" signature="83:676" placeholder="{...}" />
+            <marker date="1478361076000" expanded="true" signature="118:674" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Element/Star.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <marker date="1478361201000" expanded="true" signature="79:816" placeholder="{...}" />
+            <marker date="1478361201000" expanded="true" signature="114:814" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Element/Rectangle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <marker date="1478361752000" expanded="true" signature="84:595" placeholder="{...}" />
+            <marker date="1478361752000" expanded="true" signature="119:593" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Element/Circle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <marker date="1478361973000" expanded="true" signature="81:580" placeholder="{...}" />
+            <marker date="1478361973000" expanded="true" signature="116:578" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Transform/Inversion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <marker date="1478362487000" expanded="true" signature="96:1082" placeholder="{...}" />
+            <marker date="1478362487000" expanded="true" signature="247:371" placeholder="{...}" />
+            <marker date="1478362487000" expanded="true" signature="325:363" placeholder="..." />
+            <marker date="1478362487000" expanded="true" signature="412:462" placeholder="{...}" />
+            <marker date="1478362487000" expanded="true" signature="471:496" placeholder=" @return int ..." />
+            <marker date="1478362487000" expanded="true" signature="529:570" placeholder="{...}" />
+            <marker date="1478362487000" expanded="true" signature="579:607" placeholder=" @return string ..." />
+            <marker date="1478362487000" expanded="true" signature="646:694" placeholder="{...}" />
+            <marker date="1478362487000" expanded="true" signature="729:881" placeholder="{...}" />
+            <marker date="1478362487000" expanded="true" signature="763:825" placeholder="..." />
+            <marker date="1478362487000" expanded="true" signature="915:1080" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Transform/TransformInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1478362407000" expanded="true" signature="79:299" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Transform/Scale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <marker date="1478362508000" expanded="true" signature="92:1263" placeholder="{...}" />
+            <marker date="1478362508000" expanded="true" signature="229:321" placeholder="{...}" />
+            <marker date="1478362508000" expanded="true" signature="357:395" placeholder="{...}" />
+            <marker date="1478362508000" expanded="true" signature="421:503" placeholder="{...}" />
+            <marker date="1478362508000" expanded="true" signature="459:496" placeholder="..." />
+            <marker date="1478362508000" expanded="true" signature="531:614" placeholder="{...}" />
+            <marker date="1478362508000" expanded="true" signature="570:607" placeholder="..." />
+            <marker date="1478362508000" expanded="true" signature="623:648" placeholder=" @return int ..." />
+            <marker date="1478362508000" expanded="true" signature="681:722" placeholder="{...}" />
+            <marker date="1478362508000" expanded="true" signature="731:759" placeholder=" @return string ..." />
+            <marker date="1478362508000" expanded="true" signature="798:846" placeholder="{...}" />
+            <marker date="1478362508000" expanded="true" signature="881:1144" placeholder="{...}" />
+            <marker date="1478362508000" expanded="true" signature="940:1098" placeholder="..." />
+            <marker date="1478362508000" expanded="true" signature="960:1014" placeholder="..." />
+            <marker date="1478362508000" expanded="true" signature="1035:1089" placeholder="..." />
+            <marker date="1478362508000" expanded="true" signature="1178:1261" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Element/LineHorizontal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <marker date="1478365852000" expanded="true" signature="89:834" placeholder="{...}" />
+            <marker date="1478365852000" expanded="true" signature="174:832" placeholder="{...}" />
+            <marker date="1478365852000" expanded="true" signature="404:438" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Transform/Rotate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <marker date="1478362496000" expanded="true" signature="93:863" placeholder="{...}" />
+            <marker date="1478362496000" expanded="true" signature="235:327" placeholder="{...}" />
+            <marker date="1478362496000" expanded="true" signature="368:413" placeholder="{...}" />
+            <marker date="1478362496000" expanded="true" signature="426:451" placeholder=" @return int ..." />
+            <marker date="1478362496000" expanded="true" signature="484:525" placeholder="{...}" />
+            <marker date="1478362496000" expanded="true" signature="534:562" placeholder=" @return string ..." />
+            <marker date="1478362496000" expanded="true" signature="601:649" placeholder="{...}" />
+            <marker date="1478362496000" expanded="true" signature="684:744" placeholder="{...}" />
+            <marker date="1478362496000" expanded="true" signature="778:861" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Util/Schema.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="12" />
+          <folding>
+            <marker date="1478367642000" expanded="true" signature="38:436" placeholder="..." />
+            <marker date="1478367642000" expanded="true" signature="450:1591" placeholder="{...}" />
+            <marker date="1478367642000" expanded="true" signature="518:1420" placeholder="{...}" />
+            <marker date="1478367642000" expanded="true" signature="536:631" placeholder=" May be use Component\Schema\Draw\Transform or Component\Schema\Draw\Apped ..." />
+            <marker date="1478367642000" expanded="true" signature="656:852" placeholder="..." />
+            <marker date="1478367642000" expanded="true" signature="875:1000" placeholder="..." />
+            <marker date="1478367642000" expanded="true" signature="1020:1146" placeholder="..." />
+            <marker date="1478367642000" expanded="true" signature="1175:1232" placeholder="..." />
+            <marker date="1478367642000" expanded="true" signature="1454:1513" placeholder="{...}" />
+            <marker date="1478367642000" expanded="true" signature="1546:1588" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Element/BaseElement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+          <folding>
+            <marker date="1478367870000" expanded="true" signature="53:148" placeholder="..." />
+            <marker date="1478367870000" expanded="true" signature="204:2637" placeholder="{...}" />
+            <marker date="1478367870000" expanded="true" signature="214:238" placeholder=" @var float ..." />
+            <marker date="1478367870000" expanded="true" signature="267:291" placeholder=" @var float ..." />
+            <marker date="1478367870000" expanded="true" signature="320:345" placeholder=" @var string ..." />
+            <marker date="1478367870000" expanded="true" signature="379:404" placeholder=" @var string ..." />
+            <marker date="1478367870000" expanded="true" signature="438:483" placeholder=" @var array|TransformInterface[] ..." />
+            <marker date="1478367870000" expanded="true" signature="684:911" placeholder="{...}" />
+            <marker date="1478367870000" expanded="true" signature="962:1231" placeholder="{...}" />
+            <marker date="1478367870000" expanded="true" signature="1279:1819" placeholder="{...}" />
+            <marker date="1478367870000" expanded="true" signature="1413:1499" placeholder="..." />
+            <marker date="1478367870000" expanded="true" signature="1531:1614" placeholder="..." />
+            <marker date="1478367870000" expanded="true" signature="1646:1787" placeholder="..." />
+            <marker date="1478367870000" expanded="true" signature="1647:1711" placeholder="..." />
+            <marker date="1478367870000" expanded="true" signature="1715:1778" placeholder="..." />
+            <marker date="1478367870000" expanded="true" signature="1865:2635" placeholder="{...}" />
+            <marker date="1478367870000" expanded="true" signature="1937:2606" placeholder="..." />
+            <marker date="1478367870000" expanded="true" signature="2115:2407" placeholder="..." />
+            <marker date="1478367870000" expanded="true" signature="2177:2393" placeholder="..." />
+            <marker date="1478367870000" expanded="true" signature="2235:2310" placeholder="..." />
+            <marker date="1478367870000" expanded="true" signature="2415:2595" placeholder="..." />
+            <marker date="1478367870000" expanded="true" signature="2465:2528" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Element/LineVertical.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
+          <folding>
+            <marker date="1478367900000" expanded="true" signature="132:1086" placeholder="{...}" />
+            <marker date="1478367900000" expanded="true" signature="215:1084" placeholder="{...}" />
+            <marker date="1478367900000" expanded="true" signature="429:498" placeholder="..." />
+            <marker date="1478367900000" expanded="true" signature="506:600" placeholder="..." />
+            <marker date="1478367900000" expanded="true" signature="717:748" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Generator/RandomeGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <marker date="1478366186000" expanded="true" signature="104:3641" placeholder="{...}" />
+            <marker date="1478366186000" expanded="true" signature="275:448" placeholder="{...}" />
+            <marker date="1478366186000" expanded="true" signature="478:1248" placeholder="{...}" />
+            <marker date="1478366186000" expanded="true" signature="1106:1240" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="1286:1387" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="1438:1680" placeholder="{...}" />
+            <marker date="1478366186000" expanded="true" signature="1510:1649" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="1573:1639" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="1720:1999" placeholder="{...}" />
+            <marker date="1478366186000" expanded="true" signature="1798:1965" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="1849:1955" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="1881:1941" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="2072:2492" placeholder="{...}" />
+            <marker date="1478366186000" expanded="true" signature="2159:2460" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="2217:2450" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="2306:2435" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="2549:3637" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="2679:3543" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="2746:3533" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="2885:3006" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="3014:3135" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="3187:3519" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="3299:3382" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="3390:3471" placeholder="..." />
+            <marker date="1478366186000" expanded="true" signature="3562:3630" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schema/Draw/Schema.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="95" column="87" selection-start-line="95" selection-start-column="87" selection-end-line="95" selection-end-column="87" />
+          <folding>
+            <marker date="1478362650000" expanded="true" signature="45:192" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="212:5269" placeholder="{...}" />
+            <marker date="1478362650000" expanded="true" signature="345:369" placeholder=" @var array ..." />
+            <marker date="1478362650000" expanded="true" signature="512:878" placeholder="{...}" />
+            <marker date="1478362650000" expanded="true" signature="578:645" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="912:5101" placeholder="{...}" />
+            <marker date="1478362650000" expanded="true" signature="1343:4671" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="1687:1731" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="1739:1783" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="1883:3122" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="1913:1983" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="1991:2061" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="2129:3108" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="2230:2377" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="2385:2515" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="2615:2899" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="2677:2789" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="2980:3090" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="3531:3602" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="3685:4169" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="4177:4661" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="4717:5038" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="5133:5266" placeholder="..." />
+            <marker date="1478362650000" expanded="true" signature="5221:5260" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/AppBundle/ApplicationAvailabilityFunctionalTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <marker date="1477782461000" expanded="true" signature="152:1176" placeholder="{...}" />
+            <marker date="1477782461000" expanded="true" signature="162:201" placeholder=" @dataProvider urlProvider ..." />
+            <marker date="1477782461000" expanded="true" signature="250:409" placeholder="{...}" />
+            <marker date="1477782461000" expanded="true" signature="454:687" placeholder="{...}" />
+            <marker date="1477782461000" expanded="true" signature="584:679" placeholder="..." />
+            <marker date="1477782461000" expanded="true" signature="697:740" placeholder=" @dataProvider urlPostProvider ..." />
+            <marker date="1477782461000" expanded="true" signature="793:953" placeholder="{...}" />
+            <marker date="1477782461000" expanded="true" signature="992:1081" placeholder="{...}" />
+            <marker date="1477782461000" expanded="true" signature="1015:1073" placeholder="..." />
+            <marker date="1477782461000" expanded="true" signature="1116:1174" placeholder="{...}" />
+            <marker date="1477782461000" expanded="true" signature="1139:1166" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/AppBundle/Util/SchemaTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <marker date="1478183144000" expanded="false" signature="44:119" placeholder="..." />
+            <marker date="1478183144000" expanded="true" signature="157:1078" placeholder="{...}" />
+            <marker date="1478183144000" expanded="true" signature="195:294" placeholder="{...}" />
+            <marker date="1478183144000" expanded="true" signature="335:642" placeholder="{...}" />
+            <marker date="1478183144000" expanded="true" signature="697:879" placeholder="{...}" />
+            <marker date="1478183144000" expanded="true" signature="746:872" placeholder="..." />
+            <marker date="1478183144000" expanded="true" signature="934:1076" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
