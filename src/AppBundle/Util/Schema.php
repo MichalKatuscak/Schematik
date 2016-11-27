@@ -23,10 +23,10 @@ class Schema
          * May be use Component\Schema\Draw\Transform or Component\Schema\Draw\Element
          */
         $functions = [
-            //[Scale::class, "up"],
-            //[Scale::class, "down"],
+            [Scale::class, "up"],
+            [Scale::class, "down"],
             LineHorizontal::class,
-            //LineVertical::class,
+            LineVertical::class,
             Inversion::class, //"step_geo"
         ];
 
@@ -35,14 +35,14 @@ class Schema
         ];
 
         $geo = [
-            //Triangle::class,
+            Triangle::class,
             Star::class,
-            //Rectangle::class,
-            //Circle::class,
+            Rectangle::class,
+            Circle::class,
         ];
 
         if ($level > 1) {
-            //$functions[] = [Rotate::class, 90];
+            $functions[] = [Rotate::class, 90];
         }
 
         $generator = new RandomeGenerator($level, $functions, $zastup, $geo);

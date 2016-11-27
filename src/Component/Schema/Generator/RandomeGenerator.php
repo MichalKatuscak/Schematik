@@ -71,7 +71,11 @@ final class RandomeGenerator implements GeneratorInterface
         foreach ($this->zastup as $i=>$znak) {
             foreach ($this->functions as $k=>$f) {
                 if ($k == $i) {
-                    $vysledky[$znak] = $f;
+                    if (is_array($f)) {
+                        $vysledky[$znak] = $f[0]::short_name . "_" . $f[1];
+                    } else {
+                        $vysledky[$znak] = $f::short_name;
+                    }
                 }
             }
         }
