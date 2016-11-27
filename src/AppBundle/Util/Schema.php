@@ -11,6 +11,7 @@ use Component\Schema\Draw\Element\Triangle;
 use Component\Schema\Draw\Transform\Inversion;
 use Component\Schema\Draw\Transform\Rotate;
 use Component\Schema\Draw\Transform\Scale;
+use Component\Schema\Generator\RandomeGenerator;
 
 class Schema
 {
@@ -19,13 +20,13 @@ class Schema
     public function __construct($level = 1)
     {
         /**
-         * May be use Component\Schema\Draw\Transform or Component\Schema\Draw\Apped
+         * May be use Component\Schema\Draw\Transform or Component\Schema\Draw\Element
          */
         $functions = [
-//            [Scale::class, "up"],
-//            [Scale::class, "down"],
-//            LineHorizontal::class,
-            LineVertical::class,
+            //[Scale::class, "up"],
+            //[Scale::class, "down"],
+            LineHorizontal::class,
+            //LineVertical::class,
             Inversion::class, //"step_geo"
         ];
 
@@ -34,17 +35,17 @@ class Schema
         ];
 
         $geo = [
-            Triangle::class,
-//            Star::class,
-//            Rectangle::class,
-//            Circle::class,
+            //Triangle::class,
+            Star::class,
+            //Rectangle::class,
+            //Circle::class,
         ];
 
         if ($level > 1) {
-            $functions[] = [Rotate::class, 90];
+            //$functions[] = [Rotate::class, 90];
         }
 
-        $generator = new \Component\Schema\Generator\RandomeGenerator($level, $functions, $zastup, $geo);
+        $generator = new RandomeGenerator($level, $functions, $zastup, $geo);
         $schema = $generator->render();
 
         $this->schema = $schema;

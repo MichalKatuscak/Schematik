@@ -68,8 +68,8 @@ abstract class BaseElement implements ElementInterface
             $style .= $css_property . ":" . implode(" ", $css_values) . ";";
         }
 
-        if (!$this->parent) {
-            $style = str_replace("{{ color2 }}", "{{ color1 }}", $style);
+        if ($this->parent) {
+            $style = str_replace("{{ color1 }}", "{{ color2 }}", $style);
         }
 
         $style = str_replace([

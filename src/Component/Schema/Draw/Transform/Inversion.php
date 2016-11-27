@@ -41,7 +41,7 @@ class Inversion implements TransformInterface
     public function getCSSValue()
     {
         if ($this->value) {
-            return ["{{ color2 }}", "{{ color1 }}"];
+            return ["{{ color1 }}", "{{ color1 }}"];
         }
         return ["{{ color1 }}", "{{ color2 }}"];
     }

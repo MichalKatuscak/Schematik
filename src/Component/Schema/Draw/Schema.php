@@ -3,6 +3,7 @@
 namespace Component\Schema\Draw;
 
 use Component\Schema\Draw\Element\ElementInterface;
+use Component\Schema\Draw\Transform\Inversion;
 use Component\Schema\Draw\Transform\Rotate;
 use Component\Schema\Draw\Transform\TransformInterface;
 
@@ -87,7 +88,7 @@ final class Schema
                     }
 
                     if (in_array(TransformInterface::class, class_implements($transform_name))) {
-                        if (empty($value[$transform_name])) {
+                        if (empty($value[$transform_name::short_name])) {
                             $value[$transform_name::short_name] = new $transform_name;
                         }
 
@@ -102,7 +103,6 @@ final class Schema
 
 
             $svg .= new $element_before($x1*$s, $y1*$s, "#367fa9", "white", $value_on_start);
-            
             $element = new $element_after($x2*$s, $y2*$s, "#367fa9", "white", $value);
             foreach ($append_elements as $append_element) {
                 $element->appendElement($append_element);
