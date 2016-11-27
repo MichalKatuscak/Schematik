@@ -12,9 +12,11 @@ class Circle extends BaseElement
         $color2 = $this->color2;
         $transforms = $this->transforms;
 
+        $transforms_style = $this->generateStyle($transforms);
+        $transforms_style .= "transform-origin: ".($x)."px ".($y)."px;";
+
         $style = "fill:$color2;stroke-width:2;stroke:$color1;";
-        $style .= $this->generateStyle($transforms);
-        $style .= "transform-origin: 50% 50%;";
+        $style .= $transforms_style;
 
         $circle = '<circle  cx="'.($x).'" cy="'.($y).'" r="15"  style="'.$style.'" />';
 

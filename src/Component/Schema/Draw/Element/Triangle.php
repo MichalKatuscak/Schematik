@@ -14,7 +14,7 @@ class Triangle extends BaseElement
 
         $style = "fill:$color2;stroke-width:2;stroke:$color1;";
         $style .= $this->generateStyle($transforms);
-        $style .= "transform-origin: 50% 50%;";
+        $style .= "transform-origin: ".($x)."px ".($y)."px;";
 
         $triangle = '<polygon  stroke-linecap="round" stroke-linejoin="round" points="'.($x-15).','.($y+15).' '.($x+15).','.($y+15).' '.($x).','.($y-15).'" style="'.$style.'" />';
 

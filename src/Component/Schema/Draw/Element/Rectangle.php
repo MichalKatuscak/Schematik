@@ -14,7 +14,7 @@ class Rectangle extends BaseElement
 
         $style = "fill:$color2;stroke-width:2;stroke:$color1;";
         $style .= $this->generateStyle($transforms);
-        $style .= "transform-origin: 50% 50%;";
+        $style .= "transform-origin: ".($x)."px ".($y)."px;";
 
         $rect = '<rect  x="'.($x-15).'" y="'.($y-15).'" width="30" height="30" style="'.$style.'"/>';
 
